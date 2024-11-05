@@ -1,0 +1,24 @@
+[
+  {
+    "id": 15,
+    "number": 15,
+    "rightCoord": 219,
+    "downCoord": 520,
+    "name": "Haunted Mansion",
+    "previously": [{ "name": "Fake Ride 1" }, { "name": "Fake Ride 2" }],
+    "rideFacts": "The Haunted Mansion is a dark ride attraction located at Disneyland, Magic Kingdom, and Tokyo Disneyland. The haunted house attraction features a ride-through tour in Omnimover vehicles called 'Doom Buggies', and a walk-through show is displayed to riders waiting in the queue line. Each location differs slightly in design, utilizing a range of technology from centuries-old theatrical effects to modern special effects, including spectral Audio-Animatronics. The Haunted Mansion inspired two similarly themed but distinct attractions, Phantom Manor and Mystic Manor, which exist at Disneyland Paris and Hong Kong Disneyland, respectively. Considered one of the most popular Disney Parks attractions, the Haunted Mansion launched a small franchise including two feature film adaptations, comic strips, television specials and merchandise.",
+    "yearOpen": "August 12, 1969",
+    "imageExterior": "https://upload.wikimedia.org/wikipedia/commons/e/e6/CMP_2113-1400x934.jpg"
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "rightCoord": 46,
+    "downCoord": 376,
+    "name": "The Many Adventures of Winnie the Pooh",
+    "previously": [{ "name": "Fake Ride" }, { "name": "Fake Ride2" }],
+    "rideFacts": "The Many Adventures of Winnie the Pooh is a dark ride based upon the 1977 film of the same name, itself based on the Winnie-the-Pooh books by A. A. Milne. The attraction exists in slightly different forms at the Magic Kingdom in the Walt Disney World Resort, Disneyland, Hong Kong Disneyland, and Shanghai Disneyland Park.",
+    "yearOpen": "April 11, 2003",
+    "imageExterior": "https://upload.wikimedia.org/wikipedia/commons/4/42/The_Many_Adventures_of_Winnie_the_Pooh.jpg"
+  }
+]
